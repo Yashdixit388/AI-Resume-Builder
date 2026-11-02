@@ -1,0 +1,6 @@
+{
+  "name": "ResumAI - AI Resume Builder & ATS Job Matcher",
+  "description": "Professional AI-powered resume builder with job description matching, real-time ATS scoring, smart bullet optimization, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
